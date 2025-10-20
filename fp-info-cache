@@ -1,4 +1,4 @@
-24768714549228941
+24773961219016864
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93001,6 +93001,20 @@ Logo WEEE
 0
 0
 0
+TEN_50-2411
+TEN50_TRP
+
+TEN 50-2411 
+0
+6
+6
+TMC2209_SILENTSTEPSTICK
+MODULE_TMC2209_SILENTSTEPSTICK
+
+
+0
+18
+18
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -99644,3 +99658,10 @@ Varistor VF
 0
 2
 2
+xiao ESP32S3 Plus_PCB
+MOUDLE23P-SMD-2.54-21X17.8MM.kicad_mod.kicad_sym
+
+
+0
+37
+23
